@@ -17,7 +17,8 @@ Através desse endpoint, o usuário irá conseguir realizar o cadastro na plataf
 Formato de requisição
 {
 "email": "alex12345@mail.com",
-"password": "#Batata123"
+"password": "#Batata123", 
+"avatarUrl":"https://cdn.vnda.com.br/cobogo/2021/10/29/19_10_3_309_site_autor_PatrickPessoa.jpg?v=1638557521"
 }
 
 Exemplo de response - 201
@@ -25,6 +26,7 @@ Exemplo de response - 201
 "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFsZXgxMjM0NUBtYWlsLmNvbSIsImlhdCI6MTY3MjkzMDQxMiwiZXhwIjoxNjcyOTM0MDEyLCJzdWIiOiI0In0.77ESpkied99MZotQ8ehJgi-Yw8zZxnAARB2bRFqeI9g",
 "user": {
 "email": "alex12345@mail.com",
+"avatarUrl":"https://cdn.vnda.com.br/cobogo/2021/10/29/19_10_3_309_site_autor_PatrickPessoa.jpg?v=1638557521",
 "id": 4 } }
 
                                                         Login
