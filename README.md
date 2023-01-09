@@ -62,7 +62,7 @@ Exemplo de response - 201
 		"userId": 1,
 		"img": "https://a-static.mlcdn.com.br/1500x1500/cimento-todas-as-obras-50kg-votorantim/ceccasaeconstrucao/7cf42d78912457af4337112226580041/8211a2e9aaef87e30714dd6b47ac9076.jpeg",
 		"name": "Cimento Votorantim 50kg",
-		"stock": "50",
+		"stock": 50,
 		"price": 2002,
 		"type": "Cimento",
 		"id": 1
@@ -71,7 +71,7 @@ Exemplo de response - 201
 		"userId": 1,
 		"img": "https://d365e82sgxmduv.cloudfront.net/Custom/Content/Products/11/06/1106528_joelho-90graus-esgoto-sec-40-tigre_m1_636600773795136557.jpg",
 		"name": "Joelho 90°",
-		"stock": "30",
+		"stock": 30,
 		"price": 30,
 		"type": "Conexoes",
 		"id": 2
@@ -92,7 +92,7 @@ Exemplo de response - 201
 		"img": "https://cdn.leroymerlin.com.br/products/estanho_em_fio_para_solda_1mm_60x40_500g_vonder_87447402_0001_600x600.jpg",
 		"name": "Estanho",
 		"description": "Feitos para soldar componentes eletrônicos",
-		"stock": "2000",
+		"stock": 2000,
 		"price": 10,
 		"type": "Solda",
 		"id": 6
@@ -114,7 +114,7 @@ Formato de requisição
 	"img": "https://cdn.leroymerlin.com.br/products/estanho_em_fio_para_solda_1mm_60x40_500g_vonder_87447402_0001_600x600.jpg",
 	"name": "Estanho",
 	"description": "Feitos para soldar componentes eletrônicos",
-	"stock": "2000",
+	"stock": 2000,
 	 "price": 20,
 	"type": "Solda"
 }
@@ -125,7 +125,7 @@ Exemplo de response - 201
 	"img": "https://cdn.leroymerlin.com.br/products/estanho_em_fio_para_solda_1mm_60x40_500g_vonder_87447402_0001_600x600.jpg",
 	"name": "Estanho",
 	"description": "Feitos para soldar componentes eletrônicos",
-	"stock": "2000",
+	"stock": 2000,
 	"price": 20,
 	"type": "Solda",
 	"id": 7
@@ -142,7 +142,7 @@ Formato de requisição
 	"img": "https://ducacec.com.br/product_images/o/971/2__98583_std.png",
 	"name": "Tijolo baiano",
 	"description": "São blocos de cerâmica ou argila cozidos em forno. São usados para construir paredes e estruturas de suporte",
-	"stock": "200",
+	"stock": 200,
 	"price": 2002,
 	"type": "Tijolo"
 }
@@ -153,7 +153,7 @@ Exemplo de response - 201
 	"img": "https://ducacec.com.br/product_images/o/971/2__98583_std.png",
 	"name": "Tijolo baiano",
 	"description": "São blocos de cerâmica ou argila cozidos em forno. São usados para construir paredes e estruturas de suporte",
-	"stock": "200",
+	"stock": 200,
 	"price": 2002,
 	"type": "Tijolo",
 	"id": 4
