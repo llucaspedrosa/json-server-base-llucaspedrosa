@@ -39,6 +39,10 @@
       "password": "$2a$10$BRxVh8zjarBgNlXOWJw5uO8nVqfTo9/z8c3JrHsLV7u2ChO6vR9iS",
       "avatarUrl": "https://cdn.vnda.com.br/cobogo/2021/10/29/19_10_3_309_site_autor_PatrickPessoa.jpg?v=1638557521",
       "id": 7
+    }, {
+      "email": "alex9238@mail.com",
+      "password": "$2a$10$Jl8HAehtaWw0J8dxBSX53OlgpCvH5KFcaH0r1VIQ8fU81ADffvLaK",
+      "id": 8
     }
   ],
   "products": [
